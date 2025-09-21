@@ -24,3 +24,9 @@ We propose an integrated approach combining:
 git clone https://github.com/IITIANS/iitians-greenovation-2025.git
 cd iitians-greenovation-2025
 pip install -r requirements.txt
+
+👨‍💻 Team: IITIANS  
+🌐 www.iitiansgroup.com  
+✉️ contact@iitiansgroup.com  
+📞 +91-70094-17976
+
